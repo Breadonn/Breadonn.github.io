@@ -12,7 +12,7 @@ const AboutMe = () => {
               <Box sx={{ width: '90vw', height: '10vh', }}/>
               <Typography sx={{fontSize: 14, fontFamily: 'helvetica',}}>My journey began during my final year of high school where I decided to take AP Computer Science on what was essentially a whim. Little did I know, that decision would determine the path that I would take from that point onward. I learned the basics of coding in Java and enjoyed it so much I dived straight into studying Computer Science at the University of Hawaii at Manoa.</Typography>
               <Box sx={{ height: "1vh" }}/>
-              <Typography sx={{fontSize: 14, fontFamily: 'helvetica',}}>Fast forward to the present, I am a software developer who has experience dealing with full stack development, but has a heavy interest in front end development and design. For full stack development I have experience with the MERN stack. I have also delved into mobile development with Flutter.</Typography>
+              <Typography sx={{fontSize: 14, fontFamily: 'helvetica',}}>I am a software developer who has experience dealing with full stack development, but has a heavy interest in front end development and design. For full stack development I am most familiar with the MERN stack. I have also dipped my toes into mobile development with Flutter. </Typography>
               <Box sx={{ height: "1vh" }}/>
               <Box sx={{ height: "5vh" }}/>
               <Typography sx={{fontSize: 30, fontWeight: "bold", fontFamily: 'helvetica'}}>Skills</Typography>
